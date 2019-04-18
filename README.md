@@ -16,7 +16,13 @@ This is part of my final-year project at The Hong Kong Polytechinic University.
 * Downsampling method: Bicubic Interpolation
 
 ## Result
+The ROC curve tested with different low-resoltuion probe images are shown below. The first line is the backbone result, and the second line is the low-resolution models result.
 <p align="center">
   <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/blob/master/fig/roc_hr_res_DF1_DF13.png" height="300">
-  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/blob/master/fig/roc_hr_res_DF1_DF13.png" height="300">
+  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/blob/master/fig/roc_hr_alex_DF1_DF13.png" height="300">
+  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/blob/master/fig/roc_lr_res_DF1_DF13.png" height="300">  
+  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/blob/master/fig/roc_lr_alex_DF1_DF13.png" height="300">
 </p>
+
+## Report and Poster 
+The report and poster of this project is comming soon.
