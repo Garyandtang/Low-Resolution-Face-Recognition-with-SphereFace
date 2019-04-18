@@ -1,4 +1,4 @@
-# Low-Resolution Face-Recognition
+# Low-Resolution Face Recognition
 
 The Python implementation of low-resolution face recognition project. The backbones of the face recognition system are **Alexnet** and **ShereFace**. To let the system fit the low resolution condtion, we guide the training of low-resolution model by considering the difference between  LR image's features and HR image's features.
 * Alexnet is a famous CNN model for image classification. We used the pretrained Pythorch model and fine-turned it with Casia-Webface. The details of Alexnet is shown in this [paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
