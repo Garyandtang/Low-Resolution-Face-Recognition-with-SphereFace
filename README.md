@@ -17,6 +17,6 @@ This is part of my final-year project at The Hong Kong Polytechinic University.
 
 ## Result
 <p align="center">
-  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/tree/master/fig/sphereface_result.PNG" height="300">
-  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/tree/master/fig/Alexnet_result.PNG" height="300">
+  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/tree/master/fig/ 	roc_hr_alex_DF1_DF13.png" height="300">
+  <img src="https://github.com/Garyandtang/Low-Resolution-Face-Recognition-with-ShereFace/tree/master/fig/ 	roc_hr_alex_DF1_DF13.png" height="300">
 </p>
